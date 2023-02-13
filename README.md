@@ -1,10 +1,21 @@
-# Hey there! 👋 I'm Priyanka
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyanka Murugan
+========================================================================================================================================
 
-Welcome to my GitHub profile!
+*   🌍  I'm based in San Francisco, CA
+*   ✉️  You can contact me at [pkrmu@ucdavis.edu](mailto:pkrmu@ucdavis.edu) or via Linkedin
+*   🌱  I’m currently learning Web Scraping, Regression and Linear Programming
+*   🤝  I’m looking to collaborate on ML projects
 
-* 🌱 I’m currently learning Web Scraping, Regression and Linear Programming
-* 🤝 I’m looking to collaborate on ML projects
-* 📫 How to reach me:  email me @ priyankaoff7219@gmail.com or reach me on LinkedIn 
+### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+</p>
+                    
+                      
 
 
 ## Background 💬
@@ -35,8 +46,13 @@ Quick to pivot into ML and Analytics and get my hands dirty, I started working a
     - I built **Alteryx** workflows to check for data inconsistencies and report errors as csv files which would tell you exactly what went wrong and which rows were affected. This was super helpful to our team because we could immediately go back to the source and work with the data teams to correct the production databases (yikes!)
     
     - I built **Microsoft Power App flows** to automate sending emails to my manager regarding deliverables or send out promotional emails for the Quiz club I was part of
-  
+ 
+ 
+ 
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/Priyanka7219"><img src="https://github-readme-stats.vercel.app/api?username=Priyanka7219&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Priyanka7219's GitHub stats" /></a>
 
-
+<a href="http://www.github.com/Priyanka7219"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanka7219&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
