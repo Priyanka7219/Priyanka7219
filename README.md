@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-* 🌱 I’m currently learning Web Scraping, Regression etc
+* 🌱 I’m currently learning Web Scraping, Regression and Linear Programming
 * 🤝 I’m looking to collaborate on ML projects
 * 📫 How to reach me:  email me @ priyankaoff7219@gmail.com or reach me on LinkedIn 
 
