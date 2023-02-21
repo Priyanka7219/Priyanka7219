@@ -1,10 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyanka Murugan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyanka Murugan 
 ========================================================================================================================================
 
+Check out [my website](https://priyanka-murugan.github.io/)!
+
 *   🌍  I'm based in San Francisco, CA
-*   ✉️  You can contact me at [pkrmu@ucdavis.edu](mailto:pkrmu@ucdavis.edu) or via Linkedin
+*   ✉️  You can contact me at [pkrmu@ucdavis.edu](mailto:pkrmu@ucdavis.edu) or via [Linkedin](https://www.linkedin.com/in/priyanka-murugan/)
 *   🌱  I’m currently learning Web Scraping, Regression and Linear Programming
 *   🤝  I’m looking to collaborate on ML projects
+
 
 ### Skills 
 <!-- <p align="left">
