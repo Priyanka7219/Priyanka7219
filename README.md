@@ -20,14 +20,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                       
 
 
-## Background 💬
+<!-- ## Background 💬
 
 I have a **Bachelor of Technology** degree in **Metallurgical and Materials Engineering** from **Visvesvaraya National Institute of Technology, Nagpur (India).** During my time there, I extensively worked on Materials Science research related to various topics right from Magnesium Alloys for Aerospace applications to Biomass derived Super-Capacitors. My work at **National University of Singapore** even resulted in a ***paper at a leading publication in my research field***. I learnt that everything ultimately comes down to the Structure-Property-Processing relationship which means that the same material could be structured in different ways and for different applications. Curious to work on ways we could model materials to accelerate property prediction, I dwelled deeper into ***machine learning*** and realised that I was more curious about this field and wanted to move beyond my undergraduate major. 
 
 ## Professional Experience 🔭
 
 Quick to pivot into ML and Analytics and get my hands dirty, I started working as a **Business Analyst at Novartis** right after graduation. The span of 2 exciting years cemented my interest in understanding how data drove insights. I have worked majorly on ***anaytics*** related to ***effectiveness of marketing campaigns for brands catering to the US and Switzerland.*** I was promoted within a year and have received multiple performance based rewards for my contribution. Due to which I was given the opportunity to lead the Analytics and Operations team of 5 (I was the youngest in the team!) of one of the marquee projects at Novartis called the Next-Gen Engagement where I was the direct point of contact with our client.
-
+ -->
 ## What do I bring to the table? ⚡
 
 - I have worked majorly in **SQL** ***(written over 100 lines of code)*** and **Python** 
