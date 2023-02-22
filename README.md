@@ -8,7 +8,9 @@ Check out [my website](https://priyanka-murugan.github.io/)!
 *   🌱  I’m currently learning Web Scraping, Regression and Linear Programming
 *   🤝  I’m looking to collaborate on ML projects
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpriyanka-murugan.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+
+<h3 align="left"><img src="https://komarev.com/ghpvc/?username=priyanka-murugan" alt="priyanka-murugan"> <br> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpriyanka-murugan.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> </h3>
 
 ### Skills 
 <!-- <p align="left">
@@ -57,8 +59,15 @@ Quick to pivot into ML and Analytics and get my hands dirty, I started working a
  
 ### Badges
 
-<b>My GitHub Stats</b>
+<!--<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/priyanka-murugan"><img src="https://github-readme-stats.vercel.app/api?username=priyanka-murugan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Priyanka's GitHub stats" /></a>
 
-<a href="http://www.github.com/priyanka-murugan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-murugan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/priyanka-murugan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-murugan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+
+<div >
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=priyanka-murugan&count_private=true&show_icons=true&layout=compact&theme=buefy" width="400px" alt="priyanka-murugan">
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-murugan&count_private=true&show_icons=true&layout=compact&theme=buefy" width="400px" alt="priyanka-murugan">
+</div>
