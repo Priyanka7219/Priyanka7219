@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Check out [my website](https://priyanka-murugan.github.io/)!
 
 *   🌍  I'm based in San Francisco, CA
-*   ✉️  You can contact me at [pkrmu@ucdavis.edu](mailto:pkrmu@ucdavis.edu) or via [Linkedin](https://www.linkedin.com/in/priyanka-murugan/)
+*   ✉️  You can contact me at [pkrmu.ucd@gmail.com](mailto:pkrmu.ucd@gmail.com) or via [Linkedin](https://www.linkedin.com/in/priyanka-murugan/)
 *   🌱  I’m currently learning Web Scraping, Regression and Linear Programming
 *   🤝  I’m looking to collaborate on ML projects
 
