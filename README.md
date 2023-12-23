@@ -36,7 +36,7 @@ Quick to pivot into ML and Analytics and get my hands dirty, I started working a
  -->
 ## What do I bring to the table? ⚡
 
-- I have worked majorly in **SQL** ***(written over 100 lines of code)*** and **Python** 
+- I have worked majorly in **SQL** and **Python** 
   - Python Libraries I'm familiar with:
       1. **Data Wrangling:** Pandas, Numpy
       2. **Data Visualization:** Matplotlib, Seaborn
